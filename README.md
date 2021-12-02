@@ -32,7 +32,7 @@ Manuel Martínez TIA: 19004869 TURMA 05A
 ## 3. Passos para a implementação
 1. Crie sua conta na plataforma [Adafruit IO](https://io.adafruit.com/)
 2. Crie os feeds definidos no [Código](./src/horta_iot.ino) na plataforma Adafruit IO
-3. Crie o [Dashboard](./doc/dashboard_adafruit.jpg) para a leitura dos dados dos feeds
+3. Crie o [Dashboard](./doc/dashboard_adafruit_io.png) para a leitura dos dados dos feeds
 4. Implemente o esquema de conexões com os componentes do projeto
 5. Instale as bibliotecas requeridas no IDE Arduino
 6. Substitua no código os dados da rede WiFI e as credenciais da plataforma Adafruit IO
